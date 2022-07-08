@@ -58,8 +58,8 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: naseri_nastaran # your Twitter handle
-linkedin_username: href="https://www.linkedin.com/in/nastaran-naseri-907b3984/">Nastaran Naseri</a> # your LinkedIn user name
-scholar_userid: href="https://scholar.google.com/citations?user=CB4yJBYAAAAJ&hl=en">Nastaran Naseri</a> # your Google Scholar ID
+linkedin_username: nastaran-naseri-907b3984 # your LinkedIn user name
+scholar_userid: CB4yJBYAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
