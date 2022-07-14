@@ -6,7 +6,7 @@ subtitle: Doctoral Researcher | ML, AI, Optimization | Future Energy Systems.
 
 profile:
   align: right
-  image: IMG_NN.jpg
+  image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
 <!--   address: >
     <p>555 your office number</p>
