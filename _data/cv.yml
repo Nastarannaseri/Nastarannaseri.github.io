@@ -24,13 +24,13 @@
       institution: Ferdowsi University of Mashhad, Mashhad, Iran
       year: 2015 - 2017
       description:
-        - Grade: First Class (top of the cohort).
+        - First Class (top of the cohort).
         
     - title: B.Sc. in Industrial Engineering
       institution: Ferdowsi University of Mashhad, Mashhad, Iran
       year: 2015 - 2017
       description:
-        - Grade: First Class (top of the cohort).
+        - First Class (top of the cohort).
 
 - title: Experience
   type: time_table
@@ -39,11 +39,12 @@
       institution: University of Cologne, Cologne, Germany
       year: 2018 - ongoing
       description:
+      
         - Researched data-driven decision making (optimization, machine learning, reinforcement learning, simulation) with focus on future energy markets. Examples of my research includes
         
-          - Studying the impact of market mechanisms in attracting storage systems to the reserve electricity markets. In collaboration with Rotterdam School of Management.
-          - Proposing a new business model for energy utilities (aggregators) to expose grid reliability costs to storage-enabled customers and incentivize further investments in flexibility at the distribution level. In collaboration with Rotterdam School of Management and Karlsruhe Institute of Technology.
-          - Designing retail electricity tariffs for an electricity aggregator using Reinforcement Learning and Sequence-to-sequence prediction algorithm.
+            - Studying the impact of market mechanisms in attracting storage systems to the reserve electricity markets. In collaboration with Rotterdam School of Management.
+            - Proposing a new business model for energy utilities (aggregators) to expose grid reliability costs to storage-enabled customers and incentivize further investments in flexibility at the distribution level. In collaboration with Rotterdam School of Management and Karlsruhe Institute of Technology.
+            - Designing retail electricity tariffs for an electricity aggregator using Reinforcement Learning and Sequence-to-sequence prediction algorithm.
           
         - Published first-authored papers at leading international operations management and information systems conferences.
         - Taught “Data Science and Machine Learning” (Bachelor), “Analytics and Applications” (Master), “Advanced Analytics and Applications” (Master).
@@ -92,9 +93,9 @@
   contents:
     - <u>Academic Services:</u>
     
-      - Regular ad hoc reviewing activities for leading information systems and energy conferences(ICIS, ECIS, WITS, ACM e-Energy) and journals (European Journal of Operations Management)
-      - Session chair at Production and Operations Management 2022 conference
-      - Session chair at OR2022, International Conference on Operations Research
+        - Regular ad hoc reviewing activities for leading information systems and energy conferences(ICIS, ECIS, WITS, ACM e-Energy) and journals (European Journal of Operations Management)
+        - Session chair at Production and Operations Management 2022 conference
+        - Session chair at OR2022, International Conference on Operations Research
       
     - <u>Sports:</u> Fitness and strength training, Amateur volleyball
     - <u>Hobbies:</u> Reading, Piano learning.
