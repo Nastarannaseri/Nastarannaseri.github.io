@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 description: Below you will find a list of my recent publications in academic journals, in conference proceedings.
-years: [2017, 2019, 2021]
+years: [2017, 2019, 2021, 2022]
 nav: true
 nav_order: 1
 ---
