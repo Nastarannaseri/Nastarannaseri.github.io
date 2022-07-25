@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 nav_order: 4
 ---
@@ -24,3 +24,5 @@ markets.
 
 Most business analytics applications are geared towards benefiting the company, often at the expense of the individual, community, and society. The focus of this course is on human and socially-responsible business analytics, especially with the focus on sustainability.
 In this course we will work with real business problems and real data. We will examine types of questions that data mining can answer and will develop a variety of data-driven tools to answer these questions. The emphasis is on understanding the concepts and logic behind a wide set of data mining techniques and their relation to specific business analytics situations. The gained knowledge will be applied on a business analytics team project that encapsulates the learnings, while is not expected to master the theoretical underpinnings of the techniques.
+
+On the link below you can find notebooks of the course, including a summary of the lecture as well as the python implementation.
