@@ -13,7 +13,7 @@ nav_order: 4
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
 Organize your courses by years, topics, or universities, however you like! -->
-
+<p style='text-align: justify;'> 
 Over the past years I have tought several courses including “Data Science and Machine Learning” (Bachelor), “Analytics and Applications” (Master),
 “Advanced Analytics and Applications” (Master). Curently I am only teaching the master course named “Analytics and Applications”. This course aims to provide students with knowledge and skills required for data analytics using information systems that drive business success. 
 
@@ -26,3 +26,4 @@ Most business analytics applications are geared towards benefiting the company, 
 In this course we will work with real business problems and real data. We will examine types of questions that data mining can answer and will develop a variety of data-driven tools to answer these questions. The emphasis is on understanding the concepts and logic behind a wide set of data mining techniques and their relation to specific business analytics situations. The gained knowledge will be applied on a business analytics team project that encapsulates the learnings, while is not expected to master the theoretical underpinnings of the techniques.
 
 On the link below you can find notebooks of the course, including a summary of the lecture as well as the python implementation.
+</p>
