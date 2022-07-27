@@ -39,13 +39,15 @@
       institution: University of Cologne, Cologne, Germany
       year: 2018 - ongoing
       description:
-      <br>
-      <ul>
-        <li>Researched data-driven decision making (optimization, machine learning, reinforcement learning, simulation) with focus on future energy markets. Examples of my research includes:</li>
-        <li>Published first-authored papers at leading international operations management and information systems conferences and journals.</li>
-        <li>Taught “Data Science and Machine Learning” (Bachelor), “Analytics and Applications” (Master), “Advanced Analytics and Applications” (Master).</li>
-        <li>Co-led a research team developing an autonomous agent in retail electricity market simulation competition named Power TAC.</li>
-      </ul>
+      - Researched data-driven decision making (optimization, machine learning, reinforcement learning, simulation) with focus on future energy markets. Examples of my research includes
+      
+        - Studying the impact of market mechanisms in attracting storage systems to the reserve electricity markets. In collaboration with Rotterdam School of Management.
+        - Proposing a new business model for energy utilities (aggregators) to expose grid reliability costs to storage-enabled customers and incentivize further investments in flexibility at the distribution level. In collaboration with Rotterdam School of Management and Karlsruhe Institute of Technology.
+        - Designing retail electricity tariffs for an electricity aggregator using Reinforcement Learning and Sequence-to-sequence prediction algorithm.
+      
+      - Published first-authored papers at leading international operations management and information systems conferences and journals.
+      - Taught “Data Science and Machine Learning” (Bachelor), “Analytics and Applications” (Master), “Advanced Analytics and Applications” (Master).
+      - Co-led a research team developing an autonomous agent in retail electricity market simulation competition named Power TAC.
         
     - title:  Data analyst and researcher
       institution: Ferdowsi University of Mashhad, Mashhad, Iran
