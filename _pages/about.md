@@ -20,9 +20,11 @@ social: true  # includes social icons at the bottom of the page
 <p style='text-align: justify;'> 
   
 I am a Ph.D. Researcher in  Information Systems (IS) and Operations Management (OM) at the University of Cologne. I hold Master's and Bachelor's degrees in Industrial Engineering from Ferdowsi University of Mashhad, Iran. 
-
+ <br>
+  
 My research interests lie in applying data-driven methods and optimization techniques to understand and resolve societal challenges. While mainly anchored in the information systems field, my interdisciplinary research touches on economics and decision science – using various techniques such as machine learning and data analytics for the electricity market domain. Specifically, my ongoing research focuses on energy storage modeling, market mechanisms at retail and wholesale markets, and artificial intelligence application in the liberalized electricity markets. 
-
+ <br>
+  
 My work has appeared in prestigious energy and information systems conference proceedings such as the International Associations of Energy Economics (IAEE), Power Systems Computation Conference (PSCC), the International Conference on Information Systems (ICIS), and the Workshop on Information Technologies and Systems (WITS).
 
 </p>
