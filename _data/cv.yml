@@ -42,11 +42,6 @@
       <br>
       <ul>
         <li>Researched data-driven decision making (optimization, machine learning, reinforcement learning, simulation) with focus on future energy markets. Examples of my research includes:</li>
-          <ul>
-            <li>Studying the impact of market mechanisms in attracting storage systems to the reserve electricity markets. In collaboration with Rotterdam School of Management.</li>
-            <li>Proposing a new business model for energy utilities (aggregators) to expose grid reliability costs to storage-enabled customers and incentivize further investments in flexibility at the distribution level. In collaboration with Rotterdam School of Management and Karlsruhe Institute of Technology.</li>
-            <li>Designing retail electricity tariffs for an electricity aggregator using Reinforcement Learning and Sequence-to-sequence prediction algorithm.</li>
-          </ul>
         <li>Published first-authored papers at leading international operations management and information systems conferences and journals.</li>
         <li>Taught “Data Science and Machine Learning” (Bachelor), “Analytics and Applications” (Master), “Advanced Analytics and Applications” (Master).</li>
         <li>Co-led a research team developing an autonomous agent in retail electricity market simulation competition named Power TAC.</li>
