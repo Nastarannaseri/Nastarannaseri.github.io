@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Doctoral Researcher | ML, AI, Optimization | Future Energy Systems.
 
